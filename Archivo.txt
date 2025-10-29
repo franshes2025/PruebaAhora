@@ -1,1 +1,1 @@
-Hola probando git
+Hola probando git y ya aprendi a usar merge y y otro comandos de git
